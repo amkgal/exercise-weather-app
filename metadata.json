@@ -1,0 +1,6 @@
+{
+  "name": "SG Exercise Weather Planner",
+  "description": "Smart Singapore exercise planner with real-time weather forecasts, NEA lightning alert tracking, and PSI air quality safe zone recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
